@@ -1,3 +1,3 @@
-module github.com/cnosuke/go-ffprob
+module github.com/cnosuke/go-ffprobe
 
 go 1.13
